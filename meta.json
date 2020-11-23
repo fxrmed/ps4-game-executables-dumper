@@ -1,0 +1,16 @@
+{
+  "title": "Dumper",
+  "version": "1.0.0",
+  "updated": "2001-01-01T00:00:00Z",
+  "device": "PlayStation 4",
+  "firmware": "",
+  "description": {
+    "default": "Dumps and decrypts applications to USB. Can be configured with `dumper.cfg` on the USB drive.",
+    "en": "Dumps and decrypts applications to USB. Can be configured with `dumper.cfg` on the USB drive."
+  },
+  "author": "XVortex",
+  "url": "https://github.com/xvortex/ps4-dumper-vtx",
+  "redirect": false,
+  "reload": false,
+  "offline": true
+}
